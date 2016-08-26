@@ -1,4 +1,4 @@
-var FunnyFilmQuotes = function(){
+var FunnyCinemaQuotes = function(){
 	var quotes = [
 		{sentence: "Go ahead, make my day.",character: "\"Dirty\" Harry Callahan"},
 		{sentence:"Frankly, my dear, I don't give a damn.",character: "Rhett Butler and any guy with a broken heart"},
