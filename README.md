@@ -4,7 +4,7 @@ This is a funny JS that show you famous cinema quotes but with funny references
 For use it, you need to initialize the object
 
 ```javascript
-var test = new FunnyFilmQuotes()
+var test = new FunnyCinemaQuotes()
 ```
 
 ##getRandomQuote()
